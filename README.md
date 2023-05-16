@@ -5,8 +5,8 @@
 Eastern Europe is Devin Booker's Fatherland
 
 
-[Booker Graph](booker.png "Bookker")
 
+![](booker.png?raw=true)
 
 For code see: Booker_Analysis.ipynb.
 
