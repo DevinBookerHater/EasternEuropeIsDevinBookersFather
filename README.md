@@ -10,7 +10,7 @@ Eastern Europe is Devin Booker's Fatherland
 
 For code see: Booker_Analysis.ipynb.
 
-all_booker_stats.csv contains the cleaed data of Devin Booker's NBA regular and playoff season career.
+all_booker_stats.csv contains the cleaed data of Devin Booker's NBA regular and playoff career.
 
 euro_scores.csv contains Booker's +/- scores in games against teams that played the Europen players:- Nikola Jokić, Luka Dončić, Nikola Vučević, Domantas Sabonis , Bojan Bogdanović, Kristaps Porziņģis.
 
